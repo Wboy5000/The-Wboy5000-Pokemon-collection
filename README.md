@@ -12,27 +12,27 @@ note these are all emulators and all credit goes to Nintendo, Creatures INC. and
 
 # Pokemon Emerald
 
-link
+https://wboy5000.github.io/Wboy5000-Pokemon-Links/launcher.html#pokemonemerald
 
 # Pokemon Leaf Green
 
-link
+https://wboy5000.github.io/Wboy5000-Pokemon-Links/launcher.html#pokemongreen
 
 # Pokemon Fire Red
 
-link
+https://wboy5000.github.io/Wboy5000-Pokemon-Links/launcher.html#pokemonred
 
 # Pokemon Mystery Dungeon Red
 
-link
+https://wboy5000.github.io/Wboy5000-Pokemon-Links/launcher.html#mysteryred
 
 # Pokemon Ruby
 
-link
+https://wboy5000.github.io/Wboy5000-Pokemon-Links/launcher.html#pokemonruby
 
 # Pokemon Sapphire
 
-link
+https://wboy5000.github.io/Wboy5000-Pokemon-Links/launcher.html#pokemonsapphire
 
 # Thanks!
 
