@@ -8,7 +8,11 @@ Pokemon Mystery Dungeon Red
 Pokemon Ruby
 Pokemon Sapphire
 
-note these are all emulators and all credit goes to Nintendo, Creatures INC. and Game Freak INC.
+note these are all emulators and all credit goes to Nintendo, Creatures INC., and Game Freak INC.
+
+# controls 
+
+The A button has been changed to J and B to Y (for simplicity) Arrow keys are used for movement.
 
 # Pokemon Emerald
 
