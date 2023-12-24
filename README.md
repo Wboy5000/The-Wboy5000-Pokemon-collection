@@ -12,7 +12,7 @@ note these are all emulators and all credit goes to Nintendo, Creatures INC., an
 
 # controls 
 
-The A button has been changed to J and B to Y (for simplicity) Arrow keys are used for movement.
+The A button has been changed to J and B to Y (for simplicity) the enter key is the start button and Arrow keys are used for movement.
 
 # Pokemon Emerald
 
